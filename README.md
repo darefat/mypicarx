@@ -1,2 +1,2 @@
 # mypicarx
-Getting a stab at autonomous personal project
+Getting a stab at autonomous vehicle a personal project
